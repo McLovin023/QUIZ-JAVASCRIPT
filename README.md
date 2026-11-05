@@ -44,6 +44,12 @@ En caso contrario, se le asignan 0.0 puntos.
 4. Salida Esperada en Consola
 El programa debe imprimir un reporte estructurado y legible con el siguiente formato:
 
+
+
+
+
+
+
 ==================================================
         FICHA DE USUARIO PROCESADA
 ==================================================
