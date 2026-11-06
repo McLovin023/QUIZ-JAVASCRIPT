@@ -12,6 +12,7 @@ nombre[1] = nombre[1].slice(0, 1).toUpperCase() + nombre[1].slice(1);
 nombre = nombre.join(" ");
 
 //validacion de correo
+//
 let correo = entrada_correo.toLowerCase();
 let correo_valido = correo ;
 correo_valido.includes("@");
